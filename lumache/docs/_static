@@ -1,0 +1,2 @@
+pip install furo
+sphinx-build -b html docs/ build/
