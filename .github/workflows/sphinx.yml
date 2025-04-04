@@ -23,7 +23,7 @@ jobs:
           pip install furo  # Install your Sphinx theme if needed
 
       - name: Build Documentation
-        run: sphinx-build -b html lumache/docs/source/ docs/build/html
+        run: sphinx-build -b html lumache/docs/source docs/build/html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
