@@ -15,6 +15,24 @@ Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 2. This line is being checked for **BoldFace**
 3. and for Backquotes can be ``text`` for code example
 
+* this is
+* a list
+
+  * with a nested list
+  * and some subitems
+
+* and here the parent list continues
+
+term 1
+    Each definition list item contains a term, optional classifiers, and a definition.
+
+term 2
+    A term is a simple one-line word or phrase, a leading hyphen to prevent recognition as an **option list** item.
+
+    Optional *classifiers* may follow the term on the same line, each after an inline, paragraph 2.
+
+term 3 : classifier
+    Definition 3.
 Check out the :doc:`usage` section for further information.
 
 .. note::
