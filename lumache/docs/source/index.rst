@@ -11,9 +11,9 @@ creates recipes mixing random ingredients.  It pulls data from the `Open Food
 Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 *intuitive* API.
 
-This line is check *italics*
-This line is being checked for **BoldFace**
-and for Backquotes can be ``text`` for code example
+1. This line is check *italics*
+2. This line is being checked for **BoldFace**
+3. and for Backquotes can be ``text`` for code example
 
 Check out the :doc:`usage` section for further information.
 
